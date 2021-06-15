@@ -10,4 +10,4 @@ Change the image address to the CDN domain name (if you are using PicGo, it is t
 
 or
 
-`https://cdn.jsdelivr.net/gh/<Your GitHub User Name>/<Your imgur repository name>@<repository version>/image path`
+`https://cdn.jsdelivr.net/gh/<Your GitHub User Name>/<Your imgur repository name>/image path@<repository version>`
